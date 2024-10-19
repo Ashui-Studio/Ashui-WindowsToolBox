@@ -1,0 +1,26 @@
+F:\Visual Studio Project\WindowsToolBox\bin\Debug\WindowsToolBox.exe.config
+F:\Visual Studio Project\WindowsToolBox\bin\Debug\WindowsToolBox.exe
+F:\Visual Studio Project\WindowsToolBox\bin\Debug\WindowsToolBox.pdb
+F:\Visual Studio Project\WindowsToolBox\obj\Debug\WindowsToolBox.csprojResolveAssemblyReference.cache
+F:\Visual Studio Project\WindowsToolBox\obj\Debug\WindowsToolBox.Form1.resources
+F:\Visual Studio Project\WindowsToolBox\obj\Debug\WindowsToolBox.Properties.Resources.resources
+F:\Visual Studio Project\WindowsToolBox\obj\Debug\WindowsToolBox.csproj.GenerateResource.Cache
+F:\Visual Studio Project\WindowsToolBox\obj\Debug\WindowsToolBox.exe
+F:\Visual Studio Project\WindowsToolBox\obj\Debug\WindowsToolBox.pdb
+C:\Users\Administrator\Desktop\WindowsToolBox\bin\Debug\WindowsToolBox.exe.config
+C:\Users\Administrator\Desktop\WindowsToolBox\bin\Debug\WindowsToolBox.exe
+C:\Users\Administrator\Desktop\WindowsToolBox\bin\Debug\WindowsToolBox.pdb
+C:\Users\Administrator\Desktop\WindowsToolBox\obj\Debug\WindowsToolBox.Form1.resources
+C:\Users\Administrator\Desktop\WindowsToolBox\obj\Debug\WindowsToolBox.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WindowsToolBox\obj\Debug\WindowsToolBox.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\WindowsToolBox\obj\Debug\WindowsToolBox.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WindowsToolBox\obj\Debug\WindowsToolBox.exe
+C:\Users\Administrator\Desktop\WindowsToolBox\obj\Debug\WindowsToolBox.pdb
+C:\Users\Administrator\Desktop\WindowsToolBox\bin\Debug\WindowsToolBox.exe.manifest
+C:\Users\Administrator\Desktop\WindowsToolBox\bin\Debug\WindowsToolBox.application
+C:\Users\Administrator\Desktop\WindowsToolBox\obj\Debug\WindowsToolBox.TrustInfo.xml
+C:\Users\Administrator\Desktop\WindowsToolBox\obj\Debug\WindowsToolBox.exe.manifest
+C:\Users\Administrator\Desktop\WindowsToolBox\obj\Debug\WindowsToolBox.application
+C:\Users\Administrator\Desktop\WindowsToolBox\bin\Debug\zh-CN\WindowsToolBox.resources.dll
+C:\Users\Administrator\Desktop\WindowsToolBox\obj\Debug\WindowsToolBox.Form1.zh-CN.resources
+C:\Users\Administrator\Desktop\WindowsToolBox\obj\Debug\zh-CN\WindowsToolBox.resources.dll
